@@ -1,0 +1,1 @@
+# 7.-Vendas-Script-para-ajuste-de-vendedor-nas-tabelas-SC5-SC6
